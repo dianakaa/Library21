@@ -33,6 +33,6 @@ jobs:
             with:
                 name: Test results
                 path: "**/*.trx"
-                reporter: dootnet-trx
+                reporter: dotnet-trx
 
               
